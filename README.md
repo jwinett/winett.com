@@ -5,4 +5,6 @@ Somebody tell the intern to automagicalize this to update the website on the liv
 ### Grounded and Founded
 A two-year-old just caused me to forget what I was wanting to communicate to you.  BlameGame==On
 
-
+Rather than automagicalization, I've decided to manually do the
+`git pull`
+method on the server itself, like a pimp
