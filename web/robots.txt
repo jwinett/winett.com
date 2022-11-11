@@ -1,0 +1,67 @@
+# borrowed from intel.com/robots.txt
+
+User-agent: *
+Disallow: /d/
+
+User-agent: SEOkicks
+Crawl-Delay: 4
+
+User-agent: coccocbot
+Crawl-Delay: 4
+
+User-agent: AhrefsBot
+Crawl-Delay: 4
+
+User-agent: SemrushBot
+Crawl-Delay: 4
+
+User-agent: trendictionbot
+Crawl-Delay: 4
+
+User-agent: serpstatbot
+Crawl-Delay: 4
+
+User-agent: startmebot
+Crawl-Delay: 4
+
+User-agent: HatenaBlog-bot
+Crawl-Delay: 4
+
+User-agent: Cincraw
+Crawl-Delay: 4
+
+User-agent: InfoTigerBot
+Crawl-Delay: 4
+
+User-agent: snapchat
+Crawl-Delay: 4
+
+User-agent: Superfeedr
+Crawl-Delay: 4
+
+User-agent: YaK
+Crawl-Delay: 4
+
+User-agent: digitalshadowsbot
+Crawl-Delay: 4
+
+User-agent: Magus
+Crawl-Delay: 4
+
+User-agent: Quora-Bot
+Crawl-Delay: 4
+
+User-agent: INETDEX-BOT
+Crawl-Delay: 4
+
+User-agent: DataForSeoBot
+Crawl-Delay: 4
+
+User-agent: SerendeputyBot
+Crawl-Delay: 4
+
+User-agent: Deskyobot
+Crawl-Delay: 4
+
+User-agent: MJ12bot
+Crawl-Delay: 4
