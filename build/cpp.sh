@@ -1,0 +1,1 @@
+gcc -E ../posts/2022/11/this-is-a-c-file.html.c -P -imacros ../include/winett-com.h > ../web/2022/11/this-is-a-c-file/index.html	
